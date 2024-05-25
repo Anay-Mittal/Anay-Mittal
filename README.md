@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anay-Mittal
-- 👀 I’m interested in WebDev and turning imaginations into Real Life projects
-- 🌱 I’m currently learning basic stuff like C/c++ but have big plans in mind
+- 👀 Interested in WebDev and turning imaginations into Real Life projects
+- 🌱 Fluent in C/Cpp, Java, HTML, CSS; Learning JS, MERN, Python, DSA, RPA.
 - 💞️ I’m looking to collaborate in future
 - 📫 How to reach me anaymittal220735@acropolis.in
 
