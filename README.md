@@ -101,7 +101,7 @@ Skills:
   <a href="https://github.com/Anay-Mittal/github-readme-stats"><img alt="Anay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anay-Mittal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Anay-Mittal/github-readme-stats"><img alt="Anay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anay-Mittal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <a href="https://github.com/amanw-25">
+  <a href="https://github.com/Anay-Mittal">
     <img alt="Anay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anay-Mittal&theme=react-dark" />
   </a>
 </div>
